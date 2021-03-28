@@ -1,0 +1,10 @@
+.head {
+background: var(--backgroundTiem);
+position: relative;
+}
+.about .about-content .left img{
+    opacity: 1;
+}
+.about .about-content .right{
+    opacity: 1;
+}
